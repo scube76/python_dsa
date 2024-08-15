@@ -1,0 +1,1 @@
+# Big O notation tells you how running time or space requirement of your program grows as the input size of your program grows
