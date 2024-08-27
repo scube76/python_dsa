@@ -1,3 +1,5 @@
+# ROOT = 0 , Child, Leaf nodes, LEVELS, height and depth
+
 # class TreeNode:
 #     def __init__(self,data):
 #         self.data = data
